@@ -1,4 +1,4 @@
-Online Notepad
+Online Notepad 
 An easy-to-use, responsive online notepad that allows users to write, save, and autosave their notes directly in the browser using local storage. This project is styled with Tailwind CSS for a clean and modern UI.
 
 Features
